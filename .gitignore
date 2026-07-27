@@ -20,3 +20,7 @@ lcov.info
 PR_DESCRIPTION.md
 PULL_REQUEST.md
 .aider*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
